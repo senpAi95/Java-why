@@ -1,5 +1,7 @@
 package com.fun.with.java.EqualsMethod;
 
+import java.util.Arrays;
+
 public class Equals {
     public static void main(String[] args) {
         // Create three String objects.
